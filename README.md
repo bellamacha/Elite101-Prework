@@ -1,6 +1,6 @@
 Test Plan
 =========
-
+example text
 Here is an example test plan for the project.
 
 1. Run tests
